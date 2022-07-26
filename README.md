@@ -9,4 +9,6 @@ Identify the required sensors needed to build the irrigation system based on Ara
 
 ### Video Demonstration of Smart Irrigation System:  <https://www.youtube.com/watch?v=3-aRQZGpVWE&feature=youtu.be>
 
+### > The file "weights.txt" contains the obtained weigths after training the MLP model 
+
 
