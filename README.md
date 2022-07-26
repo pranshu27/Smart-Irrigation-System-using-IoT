@@ -5,4 +5,10 @@ Aravind is an ambitious farmer who wants to improve the yields from his farmland
 
 Identify the required sensors needed to build the irrigation system based on Aravind’s requirements from the list of sensors provided by the simulator. The irrigation system should feed the sensor readings to a machine learning model and produce the correct signal (% of water flow) to control the water supply. Use a servo motor to control the water supply. The farm irrigation system should contain four sensor units such that each unit sense temperature and humidity values. These values will be provided to ML model on the Arduino board to predict the water flow in percentage. Then the water flow percentage will be provided as input to the servo motor (Map the percentage values with servo motor rotation 0◦ to 180◦). The sensor values from each sensor unit should control a servo motor. Also, display the % of water flow that is fed as input to servo motors on an LCD.
 
-### The simulation is done using 
+### The simulation is done using Wokwi simulator: <https://wokwi.com/projects/314086016050790976>
+
+### Video Demonstration of Smart Irrigation System:  <https://www.youtube.com/watch?v=3-aRQZGpVWE&feature=youtu.be>
+
+> The file "weights.txt" contains the obtained weigths after training the MLP model 
+
+
